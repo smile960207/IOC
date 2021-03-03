@@ -5,15 +5,6 @@ import cn.jiayao.platform.core.annotation.MyController;
 import cn.jiayao.platform.core.annotation.Value;
 import cn.jiayao.platform.modular.service.LoginService;
 
-/**
- * 类 名: LoginController
- * 描 述:
- * 作 者: 黄加耀
- * 创 建: 2019/3/17 : 8:58
- * 邮 箱: huangjy19940202@gmail.com
- *
- * @author: jiaYao
- */
 @MyController
 public class LoginController {
 
