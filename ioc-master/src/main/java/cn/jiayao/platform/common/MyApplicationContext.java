@@ -13,15 +13,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import static cn.jiayao.platform.config.ConfigurationUtils.getPropertiesByKey;
 import static cn.jiayao.platform.utils.MyArrayUtils.useArrayUtils;
 
-/**
- * 类 名: MyApplicationContext
- * 描 述: IOC工具类
- * 作 者: 黄加耀
- * 创 建: 2019/3/17 : 10:17
- * 邮 箱: huangjy19940202@gmail.com
- *
- * @author: jiaYao
- */
 public class MyApplicationContext {
 
     /**
